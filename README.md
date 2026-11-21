@@ -6,3 +6,10 @@ Northstar lending group is a financial services and credit lending company that 
 Turtle Games is a Games manufacturer and a retailer with a global customer base and 
 they wish to improve their overall sales performance by analysing and considering 
 customer trends.
+
+
+# Diagnostic Analysis Using Python- National Health Services.
+National Health Service(NHS), a publicly funded healthcare system in England wants 
+to allot budget for expanding its infrastructure and resources matching its increasing 
+population capacity by better understanding the utilization trends of each component 
+in its network. 
